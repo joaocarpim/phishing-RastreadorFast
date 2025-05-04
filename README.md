@@ -124,9 +124,3 @@ npm start
 
 Se você deseja contribuir para este projeto, sinta-se à vontade para abrir um pull request ou issue. Fique à vontade para melhorar a funcionalidade ou sugerir novas ideias!
 
-
-
-
-
-
->>>>>>> 1d2956ae88a16a797e3d19a2147be7c2bb7b6401
