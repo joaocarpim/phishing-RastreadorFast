@@ -3,6 +3,14 @@
 O **RastreioFast** é uma aplicação web onde os usuários podem rastrear o status de suas entregas e consultar os dados capturados de usuários autenticados.
 
 Este projeto utiliza o Firebase para armazenar os dados de login, com funcionalidades de visualização e exportação de dados para PDF.
+
+### Projeto em execução
+<details>
+  <summary>📸</summary>
+  <img src="0504.gif" alt="Screen" style="width: 70%; max-width: 200px;">
+  
+</details>
+
 ## 🚨 **Atensão**
 * Esta é uma aplicação de rastreamento de entregas com coleta e exposição de dados sensíveis de usuários, simulando um cenário de phishing para fins educacionais ou demonstrativos.
 
